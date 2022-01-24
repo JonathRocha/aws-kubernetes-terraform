@@ -10,7 +10,7 @@ What it configures:
 
 ## Quickstart
 
-Install [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and [aws-iam-authenticaton](https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html) then setup AWS with appropiate credentials.
+Install [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and [aws-iam-authenticator](https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html) then setup AWS with appropiate credentials.
 
 ```bash
 aws configure
